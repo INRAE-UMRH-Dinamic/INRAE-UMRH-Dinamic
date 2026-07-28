@@ -20,4 +20,4 @@ Our mission is to decipher the intake, digestive, and metabolic mechanisms regul
 ## 🔗 Learn More
 
 * Visit our official team page to learn more about our ongoing research, publications, and team members:  
-  👉 **[INRAE DINAMIC Team Website]([Link](https://www.umrh.inrae.fr/internet/public/en/web/article/26))**
+  👉 **[INRAE DINAMIC Team Website](https://www.umrh.inrae.fr/internet/public/en/web/article/26)**
