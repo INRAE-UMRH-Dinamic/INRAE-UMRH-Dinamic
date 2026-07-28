@@ -1,16 +1,23 @@
-## Hi there 👋
+# Welcome to INRAE UMRH - DINAMIC Team 👋
 
-<!--
-**INRAE-UMRH-Dinamic/INRAE-UMRH-Dinamic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+We are a research team at **INRAE** (French National Institute for Agriculture, Food and Environment), located in **Saint-Genès-Champanelle, Puy-de-Dôme, France**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 About Us
+
+The **DINAMIC** team specializes in understanding **ruminant nutrition** across multiple biological levels:
+* **Digestion** & **Digestibility**
+* **Nutrition** & **Feed Efficiency**
+* **Metabolism**
+* **Microbes** (Rumen Microbiome)
+
+### Our Mission
+Our mission is to decipher the intake, digestive, and metabolic mechanisms regulating ruminant nutrition. We aim to optimize feed utilization efficiency while mitigating environmental impacts, such as enteric methane emissions and nitrogen excretion.
+
+---
+
+## 🔗 Learn More
+
+* Visit our official team page to learn more about our ongoing research, publications, and team members:  
+  👉 **[INRAE DINAMIC Team Website]([Link](https://www.umrh.inrae.fr/internet/public/en/web/article/26))**
